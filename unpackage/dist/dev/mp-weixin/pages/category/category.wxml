@@ -1,0 +1,1 @@
+<view><text>{{"hello im "+name}}</text></view>
